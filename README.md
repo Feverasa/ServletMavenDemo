@@ -1,8 +1,6 @@
 # ServletMavenDemo
 简单的原生Servlet、filter原理探索
 
-use zac_third
-
 SELECT
 	sum(passed_validate_time) AS face_back_success,
 	SUM(no_passed_validate_time) + sum(face_error_time) AS face_back_failure,
