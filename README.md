@@ -14,3 +14,5 @@
 
 
    Regexp  sql 正则
+
+     explain https://blog.csdn.net/dennis211/article/details/78170079
