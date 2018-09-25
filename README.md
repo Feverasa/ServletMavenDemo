@@ -16,3 +16,5 @@
    Regexp  sql 正则
 
      explain https://blog.csdn.net/dennis211/article/details/78170079
+     
+     索引   https://blog.csdn.net/kaka1121/article/details/53395628
