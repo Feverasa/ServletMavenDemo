@@ -20,8 +20,8 @@
      索引   https://blog.csdn.net/kaka1121/article/details/53395628,    https://blog.csdn.net/samjustin1/article/details/52314813
 
 
-                  先来看下利用synchronized实现同步的基础：Java中的每一个对象都可以作为锁。具体表现
-                  为以下3种形式。
-                  ·对于普通同步方法，锁是当前实例对象。
-                  ·对于静态同步方法，锁是当前类的Class对象。
-                  ·对于
+                 看下利用synchronized实现同步的基础：Java中的每一个对象都可以作为锁。具体表现为以下3种形式。
+                     ·对于普通同步方法，锁是当前实例对象。
+                     ·对于静态同步方法，锁是当前类的Class对象。
+                     ·对于同步方法块，锁是Synchonized括号里配置的对象。
+
