@@ -55,3 +55,6 @@ Synchronized关键字用的锁是存放在Java对象头的MarkWord里面的，�
 原文：https://blog.csdn.net/shuaicenglou3032/article/details/77170068?utm_source=copy 
 版权声明：本文为博主原创文章，转载请附上博文链接！
 
+
+CPU多级缓存和缓存一致性        https://blog.csdn.net/Andy2019/article/details/79787888
+
