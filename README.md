@@ -29,7 +29,7 @@
          对象头   https://blog.csdn.net/zhoufanyang_china/article/details/54601311
          
          
-          CAS的全称是Compare And Swap 即比较交换，其算法核心思想如下
+          CAS的全称是Compare And Swap 即比较交换，其算法核心思想如下（https://blog.csdn.net/mmoren/article/details/79185862）
                 执行函数：CAS(V,E,N)
             其包含3个参数
                 V表示要更新的变量
