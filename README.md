@@ -25,3 +25,5 @@
                      ·对于静态同步方法，锁是当前类的Class对象。
                      ·对于同步方法块，锁是Synchonized括号里配置的对象。
 
+
+         对象头   https://blog.csdn.net/zhoufanyang_china/article/details/54601311
