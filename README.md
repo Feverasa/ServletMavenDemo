@@ -67,6 +67,8 @@ CPU多级缓存和缓存一致性        https://blog.csdn.net/Andy2019/article/
 JDK1.8 JVM运行时数据区域划分             https://blog.csdn.net/bruce128/article/details/79357870
 
 
+Java里的堆(heap)栈(stack)和方法区(method)      https://www.cnblogs.com/kkcheng/archive/2011/02/25/1964521.html
+
 
 
 
