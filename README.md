@@ -61,6 +61,8 @@ CPU多级缓存和缓存一致性        https://blog.csdn.net/Andy2019/article/
 
 【JVM】类加载、连接和初始化过程            https://blog.csdn.net/wangyy130/article/details/52105217
 
+深入理解单例模式：静态内部类单例原理        https://blog.csdn.net/mnb65482/article/details/80458571
+
 
 
 
