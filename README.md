@@ -64,6 +64,9 @@ CPU多级缓存和缓存一致性        https://blog.csdn.net/Andy2019/article/
 深入理解单例模式：静态内部类单例原理        https://blog.csdn.net/mnb65482/article/details/80458571
 
 
+JDK1.8 JVM运行时数据区域划分             https://blog.csdn.net/bruce128/article/details/79357870
+
+
 
 
 
