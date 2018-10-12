@@ -73,6 +73,9 @@ Java里的堆(heap)栈(stack)和方法区(method)      https://www.cnblogs.com/k
 
 静态内部类与普通内部类的区别                     https://www.aliyun.com/jiaocheng/298823.html    /  
                                              https://blog.csdn.net/qq_38366777/article/details/78088386
+                                             
+                                             
+mysql的锁--行锁，表锁，乐观锁，悲观锁            https://www.cnblogs.com/deliver/p/5730616.html
 
 
 
