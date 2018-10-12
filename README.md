@@ -69,7 +69,8 @@ JDK1.8 JVM运行时数据区域划分             https://blog.csdn.net/bruce128
 
 Java里的堆(heap)栈(stack)和方法区(method)      https://www.cnblogs.com/kkcheng/archive/2011/02/25/1964521.html
 
-静态内部类与普通内部类的区别                     https://www.aliyun.com/jiaocheng/298823.html
+静态内部类与普通内部类的区别                     https://www.aliyun.com/jiaocheng/298823.html    /  
+                                             https://blog.csdn.net/qq_38366777/article/details/78088386
 
 
 
