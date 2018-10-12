@@ -75,7 +75,8 @@ Java里的堆(heap)栈(stack)和方法区(method)      https://www.cnblogs.com/k
                                              https://blog.csdn.net/qq_38366777/article/details/78088386
                                              
                                              
-mysql的锁--行锁，表锁，乐观锁，悲观锁            https://www.cnblogs.com/deliver/p/5730616.html
+mysql的锁--行锁，表锁，乐观锁，悲观锁            https://www.cnblogs.com/deliver/p/5730616.html   /
+                                             https://blog.csdn.net/gaoshan_820822/article/details/4582561
 
 
 
