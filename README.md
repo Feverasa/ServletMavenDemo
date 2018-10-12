@@ -83,7 +83,8 @@ mysql的锁--行锁，表锁，乐观锁，悲观锁            https://www.cnbl
                                                https://www.cnblogs.com/huanongying/p/7021555.html
                                                
                                              MVCC
-                                               https://www.cnblogs.com/chenpingzhao/p/5065316.html
+                                               https://www.cnblogs.com/chenpingzhao/p/5065316.html        /
+                                               https://www.jianshu.com/p/a3d49f7507ff
 
 
 
