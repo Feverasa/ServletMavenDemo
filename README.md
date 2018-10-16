@@ -85,6 +85,9 @@ mysql的锁--行锁，表锁，乐观锁，悲观锁            https://www.cnbl
                                              MVCC
                                                https://www.cnblogs.com/chenpingzhao/p/5065316.html        /
                                                https://www.jianshu.com/p/a3d49f7507ff
+                                               
+                                               
+ Paxos算法                                     https://www.cnblogs.com/linbingdong/p/6253479.html
 
 
 
