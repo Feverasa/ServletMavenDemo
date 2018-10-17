@@ -89,6 +89,6 @@ mysql的锁--行锁，表锁，乐观锁，悲观锁            https://www.cnbl
                                                
  Paxos算法                                     https://www.cnblogs.com/linbingdong/p/6253479.html
  zookeeper                                     https://blog.csdn.net/u012152619/article/details/53053634/
-
+zookeeper核心原理（事件）                        https://blog.csdn.net/yinwenjie/article/details/47685077
 
 
