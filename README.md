@@ -95,3 +95,5 @@ zookeeper节点权限介绍                           https://segmentfault.com/a
                                               
 Zookeeper客户端Curator使用详解                  https://www.jianshu.com/p/70151fc0ef5d
 
+跟着实例学习ZooKeeper的用法: 文章汇总             https://blog.csdn.net/liyonghui_2013li/article/details/51538810
+
