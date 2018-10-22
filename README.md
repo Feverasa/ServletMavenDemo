@@ -92,4 +92,6 @@ mysql的锁--行锁，表锁，乐观锁，悲观锁            https://www.cnbl
 zookeeper核心原理（事件）                        https://blog.csdn.net/yinwenjie/article/details/47685077
 zookeeper节点权限介绍                           https://segmentfault.com/a/1190000012279096   /
                                               https://www.cnblogs.com/shengkejava/p/5611671.html
+                                              
+Zookeeper客户端Curator使用详解                  https://www.jianshu.com/p/70151fc0ef5d
 
