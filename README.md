@@ -107,5 +107,8 @@ Zookeeper客户端Curator使用详解                  https://www.jianshu.com/p
                                  相当于2的多少次方（立方）等于N
                                  例：LOG2（8）=3
                                  相当于，2的3次方等于8 
+                                 
+                                 
+Spring源码剖析——依赖注入实现原理          https://blog.csdn.net/lisongjia123/article/details/52134396
 
 
