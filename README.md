@@ -99,5 +99,13 @@ Zookeeper客户端Curator使用详解                  https://www.jianshu.com/p
 
 
 快速排序:     时间复杂度                         https://blog.csdn.net/zhengxiuchen86/article/details/80910843
+                                              
+                                              
+                                 og2为底数的算法是：
+
+                                 LOG2（N）
+                                 相当于2的多少次方（立方）等于N
+                                 例：LOG2（8）=3
+                                 相当于，2的3次方等于8 
 
 
