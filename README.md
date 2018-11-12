@@ -111,4 +111,6 @@ Zookeeper客户端Curator使用详解                  https://www.jianshu.com/p
                                  
 Spring源码剖析——依赖注入实现原理          https://blog.csdn.net/lisongjia123/article/details/52134396
 
+DefaultSingletonBeanRegistry           https://blog.csdn.net/wconvey/article/details/51119493
+
 
